@@ -31,7 +31,7 @@
 .contato-endereco{
     margin-bottom: 32px;
     padding-left: 28px;
-    background: url(../../img/icones/local.svg) no-repeat 0px 2px;
+    background: url("../../img/icones/local.svg") no-repeat 0px 2px;
 }
 .contato-endereco p{
     margin-bottom: 8px;
